@@ -1,0 +1,14 @@
+layout_spectrum: 0.7114695
+color:
+  saturation: 0.9653813
+  lightness: 0.1558846
+  brandStrength: 0.2067639
+  rhythmicContrast: 0.8170365
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.3694513
+name: KNOB TV
